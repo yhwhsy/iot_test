@@ -16,5 +16,6 @@ void play_game()
 
 int main() {
     printf("Hello, World!\n");
+    print("Hello from main function!\n");   
     return 0;
 }
